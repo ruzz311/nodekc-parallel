@@ -6,7 +6,6 @@ module.exports = function (options) {
     return function (req, res, next) {
         var query, input, p, log, slowSquare;
 
-        // 
         query = req.query || {};
         input = Number(query.input);
         if(input === "NaN"){
