@@ -8,5 +8,9 @@
   },
   "repository": "",
   "author": "",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "parallel.js": "~0.2.0",
+    "restify": "~2.5.0"
+  }
 }
