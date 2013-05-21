@@ -1,0 +1,946 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"filterName"
+			],
+			[
+				"model",
+				"model"
+			],
+			[
+				"tumblr",
+				"tumblr"
+			],
+			[
+				"Git",
+				"Github"
+			],
+			[
+				"Par",
+				"ParallelCoords"
+			],
+			[
+				"unsupport",
+				"unsupported"
+			],
+			[
+				"set",
+				"setTimeout();"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"execute",
+				"executeProc"
+			],
+			[
+				"Dashboard",
+				"DashboardClient"
+			],
+			[
+				"bucket",
+				"bucketLabels"
+			],
+			[
+				"update",
+				"update_chart"
+			],
+			[
+				"linechart",
+				"linechart_view"
+			],
+			[
+				"up",
+				"update_chart"
+			],
+			[
+				"Mode",
+				"Models"
+			],
+			[
+				"Histor",
+				"Historical"
+			],
+			[
+				"Dropdown",
+				"dropdown-menu"
+			],
+			[
+				"select",
+				"selectNextTarget"
+			],
+			[
+				"y",
+				"yAxis"
+			],
+			[
+				"comp",
+				"compile"
+			],
+			[
+				"fet",
+				"fetch_template"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"init",
+				"init_plugins"
+			],
+			[
+				"visible",
+				"visibleCols"
+			],
+			[
+				"initial",
+				"initializeShowcase"
+			],
+			[
+				"render",
+				"render_queue"
+			],
+			[
+				"show",
+				"show_event"
+			],
+			[
+				"getFB",
+				"getFBFriends"
+			],
+			[
+				"print",
+				"printToScreen"
+			],
+			[
+				"src",
+				"src_only"
+			],
+			[
+				"report",
+				"report_ajax_error"
+			],
+			[
+				"visib",
+				"visibility"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"myteam",
+				"my_teams_list"
+			],
+			[
+				"edita",
+				"editable_image"
+			],
+			[
+				"test",
+				"testUsers"
+			],
+			[
+				"edit_bund",
+				"edit_bundle_title"
+			],
+			[
+				"bundle",
+				"bundle_selector"
+			],
+			[
+				"hi",
+				"hilite_invalid_fields"
+			],
+			[
+				"el_",
+				"el_id"
+			],
+			[
+				"scroll",
+				"scroll_to_msgs"
+			],
+			[
+				"modul",
+				"module"
+			],
+			[
+				"__dir",
+				"__dirname"
+			],
+			[
+				"__D",
+				"__dirname"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/grunt.sublime-build",
+	"command_palette":
+	{
+		"height": 51.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Format: Javascript"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"p",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"upda",
+				"Gist: Update File"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Copy Gist URL"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"open gi",
+				"Gist: Open Gist"
+			],
+			[
+				"Lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"js lin",
+				"JSHint: Linter"
+			],
+			[
+				"project",
+				"Show TODOs in project and open files"
+			],
+			[
+				"Exp",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"fora",
+				"Format: Javascript"
+			],
+			[
+				"javascr",
+				"Format: Javascript"
+			],
+			[
+				"g",
+				"Gist: Open Gist"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"js",
+				"Show TODOs in project and open files"
+			],
+			[
+				"doc",
+				"JSDocs: Decorate line comment"
+			],
+			[
+				"indall",
+				"Snippet: input - datetime-local"
+			],
+			[
+				"List",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 228.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rmadsen/Projects/madsendev.com/public/grunt.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/styles/main.styl",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/styles/feed.styl",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/modules/helpers.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/modules/tumblr.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/modules/github.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/server/services/github.coffee",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/rmadsen/Projects/madsendev.com/server/index.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/test-build/app/scripts/router.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/app.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/router.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/modules/twitter.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/modules/feed.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/.gitignore",
+		"/Users/rmadsen/Projects/madsendev.com/public/.gitignore",
+		"/Users/rmadsen/Projects/madsendev.com/public/index.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/styles/tumblr.styl",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/tumblr_activityItem-photo.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/tumblr_activityItem-text.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/twitter_activityItem.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/tumblr_activityItem-link.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/tumblr_activityItem.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-CommitCommentEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/package.json",
+		"/Users/rmadsen/Projects/madsendev.com/server/services/tumblr.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/madsendev.com.sublime-project",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/styles/index.css",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-PushEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/styles/github.styl",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/styles/twitter.styl",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/modules/Twitter.coffee",
+		"/Users/rmadsen/Projects/madsendev.com/package.json",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-IssueCommentEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-MemberEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-GollumEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-CreateEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-IssuesEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-FollowEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-ForkEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-PullRequestEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem-WatchEvent.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/gh_activityItem.html",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/rmadsen/Projects/madsendev.com/public/vendor/jam/require.config.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/main.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/styles/landing.styl",
+		"/Users/rmadsen/Projects/madsendev.com/public/vendor/jam/bootstrap/bootstrap.css",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/MagicWB (Amiga).tmTheme",
+		"/Users/rmadsen/Projects/madsendev.com/public/vendor/jam/bootstrap/bootstrap.min.css",
+		"/Users/rmadsen/Projects/madsendev.com-old/public/app/styles/main.styl",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/modules/helpers.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/templates/github.html",
+		"/Users/rmadsen/Projects/madsendev.com/public/vendor/jam/bootstrap/bootstrap-responsive.css",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/config.js",
+		"/Users/rmadsen/Projects/madsendev.com/public/app/index.html",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/templates/gh_activityItem.html",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/router.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/app.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/modules/github.coffee",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/config.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/main.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/templates/gh_activityItem.html",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/Gruntfile.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/plugins/backbone.layoutmanager.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/libs/handlebars.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/libs/jquery.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/styles/index.styl",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/styles/feed.styl",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/styles/mixins.styl",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/styles/landing.styl",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/collections/timeline-collection.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/scripts/models/github-model.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/styles/home.styl",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/styles/animate.css",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/styles/main.styl",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/services/github.coffee",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/services/twitter.coffee",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/index.coffee",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/services/tumblr.coffee",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/services/coderwall.coffee",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/config/coderwall.json",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/config/tumblr.json",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/config/twitter.json",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/config/github.json",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/config/server.json",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/index.html",
+		"/Users/rmadsen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/index.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/app/.htaccess",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/templates/index.jade",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/public/assets/index.css",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/node_modules/hapi/lib/views.js",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/templates/index-old.html",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/server/config/server.coffee",
+		"/Users/rmadsen/Projects/madsendev.com-hapi/package.json",
+		"/Users/rmadsen/Sites/seer/frontend-workbench/index.js",
+		"/Users/rmadsen/Sites/seer/frontend-workbench/symlink/Website.csproj",
+		"/Users/rmadsen/Sites/seer/frontend-workbench/symlink/Gruntfile.js",
+		"/Users/rmadsen/Sites/seer/website/Areas/GoogleAnalytics/Views/Widgets/TrafficSourcesCampaigns.cshtml",
+		"/Users/rmadsen/Sites/seer/website/Scripts/libs/nvd3/nv.d3.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/libs/nvd3/src/models/parallelCoordinates.js",
+		"/Users/rmadsen/Sites/seer/website/Content/Css/Widgets/Widget.FanInsights.styl",
+		"/Users/rmadsen/Sites/seer/website/Content/Css/client-themes/16.styl",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/config.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/libs/require.config.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/modules/dashboard.coffee",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/modules/dashboard.js",
+		"/Users/rmadsen/Sites/seer/website/Views/Shared/_Layout.cshtml",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/modules/dashboard-init.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/router.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/main.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/app.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/libs/nv.d3.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/templates/system/unsupportedDevice.html",
+		"/Users/rmadsen/Sites/seer/website/Areas/Facebook/Views/Widgets/Fans.cshtml",
+		"/Users/rmadsen/Sites/seer/frontend-workbench/seer-frontend.sublime-project",
+		"/Users/rmadsen/Sites/seer/website/Content/Css/Widgets/Widget.Notes.styl",
+		"/Users/rmadsen/Sites/seer/website/Content/Css/Widgets/Widget.TopHashtags.styl",
+		"/Users/rmadsen/Sites/seer/website/Scripts/dashboard-init.js",
+		"/Users/rmadsen/Sites/seer/website/Content/Css/nv.d3.css",
+		"/Users/rmadsen/Sites/seer/website/Content/Css/client-themes/16/index.styl",
+		"/Users/rmadsen/Sites/seer/website/Scripts/dashboard-manager.coffee",
+		"/Users/rmadsen/Sites/seer/website/Scripts/app/modules/dashboard-nav.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/libs/require.js",
+		"/Users/rmadsen/Sites/seer/website/Areas/Dashboard/Views/View/Display.cshtml",
+		"/Users/rmadsen/Sites/seer/website/Scripts/data-parcer.js",
+		"/Users/rmadsen/Sites/seer/website/Scripts/data.parcer.coffee"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/rmadsen/Sites/seer/website/Content/Css",
+			"<project>",
+			"/Users/rmadsen/Sites/seer/website",
+			"/Volumes/dev/seer/trunk/SeerPlatform/Website",
+			"/Users/rmadsen/Sites/seer/statusboard/src/client/css",
+			"/Users/rmadsen/Sites/nodeconf/nodeconf-cliffnotes",
+			"/Users/rmadsen/Sites/github/npmjs.org",
+			"/Users/rmadsen/Sites/gatorade/gnome/src/ASP.NET",
+			"/Users/rmadsen/Sites/gatorade/insideedge/branches/V2/Gatorade.Edge.Site/resources/js",
+			"/Users/rmadsen/Sites/gatorade/gnome",
+			"/Users/rmadsen/Sites/gatorade/gnome/src/ASP.NET",
+			"/Users/rmadsen/Sites/gatorade/gnome/src/ASP.NET/GNome",
+			"/Users/rmadsen/Sites/nodester/developerpoint",
+			"/Users/rmadsen/Sites/EPL/premierleague.com/cms/cq/jcr_root/apps"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"servic",
+			"\"",
+			"jst",
+			"url",
+			"GithubEvents",
+			"\"",
+			":",
+			"pre",
+			"64px",
+			":",
+			"tweets",
+			"dir",
+			"Github",
+			"mega-icon",
+			";",
+			"}",
+			"{",
+			"content",
+			"handlebars.js",
+			"font",
+			"url",
+			"date",
+			"handlebars.js",
+			"JST",
+			"server",
+			"debugger",
+			"twitter",
+			"'",
+			"stylus",
+			"watch",
+			"join",
+			"path",
+			"server",
+			"path",
+			"update",
+			"  ",
+			"d3.layout.pie",
+			"data.map",
+			".map",
+			"data[0].map",
+			"    nv.log('total', nv.logs.totalTime); // used for development, to keep track of graph generation times\nfanInsights",
+			"fanInsights",
+			"parallelCoordinates",
+			"data[0].map",
+			".map",
+			"seer/website",
+			"pie",
+			".top",
+			"top",
+			"nv",
+			"var",
+			"  ",
+			"//",
+			"Wendys",
+			"color",
+			" ",
+			"hover",
+			"points",
+			"top",
+			"legend-label",
+			"$category20[4]",
+			"top",
+			"JST",
+			"twitterPostHTML",
+			"grou",
+			";",
+			"; ",
+			"box-s",
+			"redRadi",
+			"lightgray",
+			"topPage",
+			"top",
+			"pie",
+			"$series_category20",
+			"$colorSeries",
+			"\"",
+			",",
+			";",
+			"; ",
+			".bokeh",
+			".demo-3",
+			"dashId",
+			"util",
+			"legend",
+			"$series_category20[white]",
+			"$series_category20[neonred]",
+			"$series_category20[1]",
+			"$series_category20[2]",
+			";",
+			"background",
+			";",
+			"> g\n                    &:nth-child(1)\n                        stroke          : $series_category20[0] !important\n                        fill            : $series_category20[0] !important\n                ",
+			"app",
+			"$series_userColors",
+			"../font/",
+			" series_category20",
+			":",
+			"SparkChart",
+			"ScatterPl",
+			"Radar",
+			"PieChart",
+			"Parallel",
+			"Line",
+			"HeatMap",
+			"Widgets",
+			"Script",
+			"view",
+			"View",
+			"dateRangeChange",
+			"loading",
+			"-5",
+			";",
+			"<script>\n    function userTypesInit (){\n        var modelObj = @Html.ToJson(Model as Object);\n        return modelObj;\n    }\n</script>",
+			"data",
+			"fanInsightsSpark",
+			"dateRange",
+			"loading",
+			"id",
+			"Views",
+			"loading",
+			"border",
+			"extend",
+			";",
+			"\"",
+			"=",
+			"el",
+			"30",
+			"nv-legendWrap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"",
+			"    content",
+			"tumblr",
+			"\"",
+			"http",
+			"    ",
+			"seer/phase-2",
+			"    ",
+			"#",
+			"#\n",
+			",\n",
+			"",
+			"$category20",
+			"",
+			".spinner",
+			".loading",
+			"$series_category20[1]",
+			"$series_category20[2]",
+			"$series_category20[neonred]",
+			"$series_category20[white]",
+			"",
+			"/Content/Fonts/",
+			" $series_category20",
+			"    :",
+			"",
+			"'",
+			"-",
+			"",
+			"        ",
+			"'",
+			"        ",
+			"",
+			"'",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"&",
+			"server",
+			"#",
+			".table-label",
+			"\"",
+			"series",
+			"45",
+			"hour",
+			".table-label",
+			"\"",
+			"type",
+			"client",
+			"div",
+			"'",
+			".Gender",
+			".Age",
+			".Country",
+			"48",
+			"England",
+			"heatmap",
+			"\"",
+			"modelObj",
+			"$content",
+			"options.sizeAttr",
+			"options.json",
+			"d[sizeAttr]",
+			"pm",
+			".active",
+			"li",
+			"data",
+			"/Content/Fonts",
+			"\n",
+			"",
+			"<%=",
+			"range",
+			"\"",
+			"#",
+			"\"",
+			"",
+			"#",
+			"app",
+			"\"",
+			"app",
+			"reqSQL",
+			"\"",
+			"Statement",
+			"\"",
+			"exports",
+			"",
+			"build/latest-dev",
+			"build/latest",
+			"assets",
+			"app",
+			"build/dev",
+			"assets/css",
+			"assets/js",
+			"config",
+			"Timer",
+			"\"",
+			"Chart",
+			"this.options[",
+			"this.[",
+			"d\",",
+			"departmentID",
+			" ",
+			"Helpers",
+			"System",
+			"Trello",
+			"dashboard/",
+			"Dashboard",
+			"/",
+			"kpi",
+			"res",
+			"icons/",
+			"http://facehold.it.cremalab.nodejitsu.com/picture",
+			"http://facehold.it.cremalab.nodejitsu.com/image",
+			"wrestling",
+			"volleyball",
+			"track_field",
+			"tennis",
+			"swimming",
+			"soccer",
+			"lacrosse",
+			"indoor_track",
+			"gymnastics",
+			"icehockey",
+			"golf",
+			"football",
+			"field_hockey"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 481.0
+	},
+	"output.exec":
+	{
+		"height": 372.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.guard":
+	{
+		"height": 112.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 278.0
+	},
+	"output.run_mocha":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 112.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"confi",
+				"Public/app/config.js"
+			],
+			[
+				"widget.k",
+				"CSS/Widgets/Widget.KPI.styl"
+			],
+			[
+				"",
+				"Node/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/rmadsen/Projects/substack-score/substack-score.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true
+}
