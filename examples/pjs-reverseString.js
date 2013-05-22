@@ -10,15 +10,13 @@ module.exports = function (options) {
         
         var log = function(data) { 
             res.send(data);
+            console.log("%s -> %s", text, data);
         };
 
         function child(data) {
           data = data.split('').reverse().join('');
           return data;
         }
-
-        console.log(text);
-        console.log(p);
 
         // Spawn a remote job
         p.spawn(child).then(log);

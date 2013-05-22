@@ -4,17 +4,16 @@ var fs          = require('fs'),
     maxWorkers  = require('os').cpus().length,
     restify     = require('restify'),
     port        = process.env.PORT || 8080,
+    numReqs     = 0,
     example     = {
         'base': '/examples',
         'files': fs.readdirSync('./examples')
-    },
-    numReqs     = 0;
-
+    };
 
 // Ping GET requests to the server
 function ping (times) {
     for (var i = 0; i < times; i++) {
-        http.get('http://localhost:8080/');
+        http.get('http://0.0.0.0:8080/');
     }
 }
 
@@ -34,8 +33,7 @@ function fileList (req, res, next) {
         req     : {
             url     : req.url,
             method  : req.method
-        },
-        res     : res
+        }
     });
 }
 
@@ -46,10 +44,6 @@ function messageHandler (msg) {
     if (msg.cmd && msg.cmd === 'notifyRequest') {
         numReqs += 1;
     }
-
-    if (msg.cmd && msg.cmd === 'serverReady') {
-
-    }
 }
 
 if (cluster.isMaster) {
@@ -57,30 +51,28 @@ if (cluster.isMaster) {
     var workerCount = 0,
         i           = 0;
 
-
     cluster.on('exit', function(worker, code, signal) {
         workerCount--;
         console.log('worker %s died with signal %s:', worker.process.pid, signal);
         console.log('    current workers : %s', objLen(cluster.workers));
         console.log('    max workers     : %s', maxWorkers);
         console.log('    restarting worker with new fork!');
-        cluster.fork();
+        //cluster.fork();
     });
 
     // attach cluster events as the worker is available
     // using `process.send({ ... })` would trigger the messageHandler
-
     cluster.on('listening', function(worker, address) {
         workerCount++;
 
         cluster.workers[worker.id].on('message', messageHandler);
 
-        console.log("Cluster Size: %s", workerCount);
-
-        if(workerCount === maxWorkers){
+        if( workerCount === maxWorkers ){
+            console.log("Cluster Size: %s", workerCount);
             console.log('ALL WORKERS LISTENING');
-            //ping(10000);
-            //ping(10000);
+
+            ping(10000);
+            ping(10000);
         }
     });
 
