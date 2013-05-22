@@ -48,8 +48,8 @@ module.exports = function(options){
 
 //=============================================================== Try them out
 
-    reverseString('PoopSmith', function(d){ console.log('you say "%s"', d); });
-    reverseString('MothaLicka');
+    reverseString('nodekc', function(d){ console.log('you say "%s"', d); });
+    reverseString('jifasnif');
 
     slowSquare(10);
     slowSquare(100000);

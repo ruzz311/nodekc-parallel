@@ -5,7 +5,6 @@ module.exports = function (options) {
 
     return function (req, res, next) {
         var text = req.params.input || 'forwards';
-        
         var p = new Parallel(text);
         
         var log = function(data) { 

@@ -8,12 +8,12 @@ module.exports = function (options) {
 
         query = req.query || {};
         input = Number(query.input);
+
         if(input === "NaN"){
             next("Input is not a valid number");
             return false;
         }
 
-        
         p = new Parallel(input || 100000);
         
         log = function(data) { 
